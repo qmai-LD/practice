@@ -1,7 +1,4 @@
 The quick brown fox jumped over the lazy dog
 
-<<<<<<< HEAD
 feature stuff added
-=======
-master stuff
->>>>>>> master
+
